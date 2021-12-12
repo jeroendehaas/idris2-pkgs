@@ -227,11 +227,11 @@
     "idris2": {
       "flake": false,
       "locked": {
-        "lastModified": 1638979706,
-        "narHash": "sha256-7AU/YCg+4wRe0jSdCsG8BNSXmQOATTx+7hr4IpqlbVo=",
+        "lastModified": 1639274616,
+        "narHash": "sha256-WxNPy4EeIMa30y+v0dBrkxkllG/VUlvpYZiSi6iXZdQ=",
         "owner": "idris-lang",
         "repo": "idris2",
-        "rev": "c3ec522077462729051797b3562e1946c09ff226",
+        "rev": "6cc20a99748d50b5b26e4a684608cd7bb120d6ce",
         "type": "github"
       },
       "original": {
@@ -323,11 +323,11 @@
     "lsp": {
       "flake": false,
       "locked": {
-        "lastModified": 1637784127,
-        "narHash": "sha256-32bczo3FxrO7MW9KDwmyegAVIx8g0XqY0wgIFxZeLYI=",
+        "lastModified": 1639251521,
+        "narHash": "sha256-y8UD+dahKUi7dS1egg9pPaEiWoO4/B7vdrdSPO6rywk=",
         "owner": "idris-community",
         "repo": "idris2-lsp",
-        "rev": "f84d0a4f96013ab2cf96ecaa4e70313837fd8997",
+        "rev": "daf525a64c8f863ab1f787058b9f14de82f411cf",
         "type": "github"
       },
       "original": {
@@ -338,11 +338,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1639030701,
-        "narHash": "sha256-dGuRgm2oGguei3LMYOBS1ZmD2h8hcINRoHhYRodrdCU=",
+        "lastModified": 1639213685,
+        "narHash": "sha256-Evuobw7o9uVjAZuwz06Al0fOWZ5JMKOktgXR0XgWBtg=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "ff17a0fffea0c021541ecc72a43c1079eea0599c",
+        "rev": "453bcb8380fd1777348245b3c44ce2a2b93b2e2d",
         "type": "github"
       },
       "original": {

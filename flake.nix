@@ -4,7 +4,6 @@
   inputs = {
     idris2 = { url = "github:idris-lang/idris2"; flake = false; };
     flake-utils.url = "github:numtide/flake-utils";
-    nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-21.11-darwin";
 
     comonad = { url = "github:stefan-hoeck/idris2-comonad"; flake = false; };
     collie = { url = "github:ohad/collie"; flake = false; };
@@ -29,7 +28,7 @@
     rhone = { url = "github:stefan-hoeck/idris2-rhone"; flake = false; };
     rhone-js = { url = "github:stefan-hoeck/idris2-rhone-js"; flake = false; };
     tailrec = { url = "github:stefan-hoeck/idris2-tailrec"; flake = false; };
-    idris-server = { url = "gitlab:avidela/idris-server"; flake = false; };
+    #idris-server = { url = "gitlab:avidela/idris-server"; flake = false; };
     xml = { url = "github:madman-bob/idris2-xml"; flake = false; };
     indexed = { url = "github:mattpolzin/idris-indexed"; flake = false; };
     hashable = { url = "github:z-snails/idris2-hashable"; flake = false; };

@@ -17,14 +17,14 @@ let
   compiler = lib.makeOverridable stdenv.mkDerivation
     rec {
       pname = "idris2";
-      version = "0.5.1";
+      version = "0.6.0";
       name = "${pname}-${version}";
 
       executable = "idris2";
       src = idris2-src;
 
       strictDeps = true;
-      nativeBuildInputs = [ makeWrapper clang chez ]
+      nativeBuildInputs = [ makeWrapper chez ]
         ++ lib.optional stdenv.isDarwin [ zsh ];
       buildInputs = [ chez gmp ];
 
